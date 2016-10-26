@@ -18,7 +18,8 @@ Output
 For each test case, output a single line containing the maximum number of toffees in a
 box. Also, output -1 if such an assignment of toffee packets to boxes is not possible.
 */
-
+#include<iostream>
+#include<math.h>
 #include <bits/stdc++.h>
 using namespace std;
 //@author Vidur Katyal
