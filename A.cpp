@@ -25,7 +25,7 @@ Output
 
 For each test case, output a single line containing the expected probability having an
 absolute or relative error less than 10^-6.
-
+i guess this question is from directi interview , trying this question yourself first is highly recommended !
 */
 #include <bits/stdc++.h>
 using namespace std;
