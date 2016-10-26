@@ -51,7 +51,7 @@ const long double PI = acos(-1.0);
 const long double EPS = 1e-9;
 const LL MOD = 1000000007;
 const LL MAXN = 100010;
-
+int homies = 100;
 int main()
 {
 	FAST1;
